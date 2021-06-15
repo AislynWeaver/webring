@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Danger/ring/",
+    "description": "A webring consisting entirely of g/u/rls.",
+    "image": "boss.jpg",
+    "url": "https://dangeru.me/webring",
+    "repo": "https://github.com/AislynWeaver/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Aislyn Weaver",
+            "url": "wvr.moe"
         }
     ]
 }
